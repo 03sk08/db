@@ -1,0 +1,21 @@
+@charset "UTF-8";
+
+html {
+  font-size: 100%;
+}
+body {
+  background-image: url(mZSGDzaThxA5K9JiZbhMHko3BWJm7-hRGOwoXFHU9_OCwWk8-Y-rTb0lZI7x3Y4Bin8w230);
+  background-repeat: no-repeat;
+  background-position: top center ;
+  background-size: 1000px;
+  background-color: black;
+}
+.wrapper {
+  max-width: 1100px;
+  margin: 0 auto;
+  padding: 0 4%;
+}
+.home-content {
+  text-align: center;
+  margin-top: 22%;
+}
